@@ -16,4 +16,6 @@ ZCZC W00 30 L05 Finished Week 0 Quiz
 ZCZC W00 5 L16 Finished assignment 6
 ZCZC W01 100 L02 Class on 04/09/2024
 ZCZC W01 120 L11 Finished assignment 1
-ZCZC W01 10 L12 Finished assingment 2
+ZCZC W01 10 L12 Finished assignment 2
+ZCZC W01 10 L14 Finished assignment 4
+ZCZC W01 60 L13 Finished assignment 3
