@@ -3,7 +3,7 @@
 
 # OS242: greencrabby
 
-[TIPS](TIPS/) --- [LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/greencrabby/os242)
+[LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/greencrabby/os242)
 
 <br><b>
 
