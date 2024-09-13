@@ -29,3 +29,5 @@ ZCZC W02 10 L14 Finished assignment 4
 ZCZC W02 10 L15 Finished assignment 5
 ZCZC W02 10 L16 Finished assignment 6
 ZCZC W02 30 L05 Finished Week 2 Quiz
+ZCZC W02 30 L13 Finished assignment 3
+ZCZC W02 10 L17 Finished assignment 7
