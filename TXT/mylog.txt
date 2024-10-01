@@ -37,3 +37,10 @@ ZCZC W03 15 L12 Finished assignment 2
 ZCZC W03 20 L13 Finished assignment 3
 ZCZC W03 15 L14 Finished assignment 4
 ZCZC W03 10 L15 Finished assignment 5
+ZCZC W03 100 L02 Class on 23/09/2024
+ZCZC W04 100 L02 Class on 25/09/2024
+ZCZC W04 60 L11 Finished assignment 1
+ZCZC W04 5 L12 Finished assignment 2
+ZCZC W04 10 L13 Finished assignment 3
+ZCZC W04 10 L14 Finished assignment 4
+ZCZC W04 10 L15 Finished assignment 5
